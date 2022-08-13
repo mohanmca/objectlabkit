@@ -5,6 +5,7 @@
         <groupId>net.objectlab.kit</groupId>
         <artifactId>kit-parent</artifactId>
         <version>1.4.9-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>datecalc-jdk8</artifactId>
